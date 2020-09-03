@@ -12,10 +12,10 @@ Every aspect of the system runs online and therefore requires you to be connecte
 
 * Use your own internet connection instead of a shared connection so you have greater control
 * Keep a 3G / 4G mobile internet connection as a backup in-case there is an interruption with your normal connection. Consider using your phone on hotspot mode for such instances.
-* Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as Australia.
+* Consider exclusively using a 3G / 4G mobile internet connection.
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that cloudwaitress.com is white-listed on your firewall to avoid connection issues to our servers.
+IT staff occasionally can set up an internet firewall for small business to prevent accessing harmful content. Ensure that orderinglocal.us is white-listed on your firewall to avoid connection issues to our servers.
 {% endhint %}
 
 ## Computer or Tablet
@@ -32,23 +32,22 @@ You can automatically or manually print new orders using any printer whose drive
 
 Compatible devices:
 
-* Android 1.5, 1.6, 2, 3, 4
+* Android  2, 3, 4, 5, 6, 7, 8
 * Windows - 7, 8, 10
 * Linux - requires NodeJS
 
 ## Recommended Computers & Tablets
 
-We highly recommend using an Android device or Windows 10 tablet/computer.  Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
+We highly recommend using an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
 ### Worldwide
 
 Windows 10 tablets are abundant and cheap these days. You can't go wrong choosing from one of the major brands. Some notable brands include:
 
-* Lenevo
+* Lenovo
 * ASUS
 * HP
 * Microsoft - Surface Pro Tablet
-* Chuwi - Decent Chinese brand, starting from around $200
 
 ## Recommended Printers
 
