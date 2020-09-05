@@ -56,11 +56,7 @@ Your meta description should just expand on that more but make sure to hit on yo
 
 Once you have a custom domain, visit [https://search.google.com/search-console](https://search.google.com/search-console). Register an account there, add your website, then use the "URL Inspection Tool" to check your website. There you can submit it to Google for indexing.
 
-## Additional Reading
+## Let us help wth Promoting your Restaurant
 
-We have created a few helpful guides for restaurant marketing on our blog. We suggest reading them to get more ideas and strategies.
-
-* [Online Marketing - Google My Business](https://www.cloudwaitress.com/blog/online-restaurant-marketing-google-my-business)
-* [Online Marketing - Facebook](https://www.cloudwaitress.com/blog/online-restaurant-marketing-facebook-advertising)
-* [Creative Marketing Ideas For Restaurants](https://www.cloudwaitress.com/blog/creative-marketing-ideas-restaurants)
+We have helped many businesses reach more customers and boost sales. Contact us to discuss the ways we can help your business. [info@strengthlocal.us](mailto:info@strengthlocal.us)
 
